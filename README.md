@@ -54,7 +54,7 @@ source airflow_venv/bin/activate
 
 ```bash
 # Set Airflow home
-export AIRFLOW_HOME=~/AirflowMiniProject/airflow_home
+export AIRFLOW_HOME=~/airflow_home
 
 #Initialize Airflow DB
 airflow db migrate
